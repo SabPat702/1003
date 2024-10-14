@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Szab\u00F3\\Documents\\GitHub\\1003\\1003_feladat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99DA9907-0322-494B-950A-F9E5740A5EB4}|1003_feladat.csproj|c:\\users\\szab\u00F3\\documents\\github\\1003\\1003_feladat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DA9907-0322-494B-950A-F9E5740A5EB4}|1003_feladat.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DA9907-0322-494B-950A-F9E5740A5EB4}|1003_feladat.csproj|c:\\users\\szab\u00F3\\documents\\github\\1003\\1003_feladat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99DA9907-0322-494B-950A-F9E5740A5EB4}|1003_feladat.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Szab\u00F3\\Documents\\GitHub\\1003\\1003_feladat\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Szab\u00F3\\Documents\\GitHub\\1003\\1003_feladat\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAgwGIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T18:26:29.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Szab\u00F3\\Documents\\GitHub\\1003\\1003_feladat\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Szab\u00F3\\Documents\\GitHub\\1003\\1003_feladat\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T18:23:54.641Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
