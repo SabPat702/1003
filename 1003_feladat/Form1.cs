@@ -103,5 +103,26 @@ namespace _1003_feladat
         {
             saveFileDialog1.ShowDialog();
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            listBox1.Items.Clear();
+            Dictionary<int, int> dict = new Dictionary<int, int>();
+            foreach (var elem in diakList)
+            {
+                if (dict.ContainsKey(elem.score))
+                {
+                    dict[elem.score]++;
+                }
+                else
+                {
+                    dict.Add(elem.score, 1);
+                }
+            }
+            foreach (var elem in dict)
+            {
+                listBox1.Items.Add(elem.Key+":"+elem.Value);
+            }
+        }
     }
 }

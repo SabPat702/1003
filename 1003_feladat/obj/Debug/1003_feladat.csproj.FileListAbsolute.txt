@@ -8,3 +8,13 @@ C:\Users\Szabó\Documents\GitHub\1003\1003_feladat\obj\Debug\1003_feladat.csproj
 C:\Users\Szabó\Documents\GitHub\1003\1003_feladat\obj\Debug\1003_feladat.csproj.CoreCompileInputs.cache
 C:\Users\Szabó\Documents\GitHub\1003\1003_feladat\obj\Debug\1003_feladat.exe
 C:\Users\Szabó\Documents\GitHub\1003\1003_feladat\obj\Debug\1003_feladat.pdb
+C:\Users\SabPat702\Documents\GitHub\1003\1003_feladat\bin\Debug\1003_feladat.exe.config
+C:\Users\SabPat702\Documents\GitHub\1003\1003_feladat\bin\Debug\1003_feladat.exe
+C:\Users\SabPat702\Documents\GitHub\1003\1003_feladat\bin\Debug\1003_feladat.pdb
+C:\Users\SabPat702\Documents\GitHub\1003\1003_feladat\obj\Debug\1003_feladat.csproj.AssemblyReference.cache
+C:\Users\SabPat702\Documents\GitHub\1003\1003_feladat\obj\Debug\_1003_feladat.Form1.resources
+C:\Users\SabPat702\Documents\GitHub\1003\1003_feladat\obj\Debug\_1003_feladat.Properties.Resources.resources
+C:\Users\SabPat702\Documents\GitHub\1003\1003_feladat\obj\Debug\1003_feladat.csproj.GenerateResource.cache
+C:\Users\SabPat702\Documents\GitHub\1003\1003_feladat\obj\Debug\1003_feladat.csproj.CoreCompileInputs.cache
+C:\Users\SabPat702\Documents\GitHub\1003\1003_feladat\obj\Debug\1003_feladat.exe
+C:\Users\SabPat702\Documents\GitHub\1003\1003_feladat\obj\Debug\1003_feladat.pdb
